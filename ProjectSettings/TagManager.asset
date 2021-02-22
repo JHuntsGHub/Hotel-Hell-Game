@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - ImageSlot
+  - EquippedItem
+  - LightsOut
+  - Safe
+  - Wall
+  - Floor
+  - Room1_Door
+  - Bathroom_Door
+  - KeyPad
+  - Item
+  - Pivot
+  - Jack_HallDoor
+  - Beth_HallDoor
+  - Rhys_HallDoor
+  - TimeText
+  - Lift
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Blood
+  - Rhys Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
